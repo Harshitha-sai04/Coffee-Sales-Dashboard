@@ -14,6 +14,7 @@ To analyze and visualize coffee sales data over a multi-year period in order to 
 -  What is the impact of loyalty card usage on customer purchases?
 -  What are the peak sales months and years?
 
+## View Interactive Dashboard
 [![View Interactive Dashboard](https://img.shields.io/badge/Dashboard-Excel%20Online-green?style=for-the-badge&logo=Microsoft%20Excel)](https://1drv.ms/x/c/c9dadab28cfa31cc/EYSRlL_q2XhHtrxVLGXbKeoBjZZePrg3072dlZ51rZ6_Uw?e=7IvtjE)
 
 
